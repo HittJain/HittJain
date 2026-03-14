@@ -78,7 +78,7 @@
 
 ## 🌱 Currently Learning
 
-python
+```python
 current_focus = {
     "cloud": ["Linux System Administration", "AWS Cloud Services"],
     "upcoming": ["Docker", "Jenkins CI/CD", "Kubernetes"],
