@@ -102,16 +102,6 @@ current_focus = {
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Master **DevOps** tools and CI/CD pipelines
-- [ ] Build and deploy **5+ ML projects** on AWS
-- [ ] Contribute to **open-source** AI/ML repositories
-- [ ] Earn **AWS Solutions Architect** certification
-- [ ] Land an internship at a **FAANG** company
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to collaborating on interesting projects, especially in **AI/ML**, **Cloud Computing**, and **Full-Stack Development**. Feel free to reach out!
